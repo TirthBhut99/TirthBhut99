@@ -12,7 +12,7 @@ I am always curious to explore **new tools, frameworks, and technologies** to co
 <p align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth-bhut-276302382)
-[![Email](https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tirthbhut07@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=tirthbhut07@gmail.com)
 
 </p>
 
