@@ -21,7 +21,7 @@ I am always curious to explore **new tools, frameworks, and technologies** to co
 
 ## 💻 Tech Stack
 
-### 🧑‍💻 Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white"/>
